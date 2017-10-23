@@ -7,6 +7,7 @@ import StepsizeHelper from './stepsize/StepsizeHelper';
 import { CompositeDisposable } from 'atom';
 import GutterView from './interface/GutterView';
 import os from 'os';
+import * as childProcess from 'child_process';
 import * as ConfigManager from './ConfigManager';
 import * as ColorScale from './interface/ColourScale';
 import * as Analytics from './stepsize/Analytics';
@@ -21,6 +22,7 @@ export function activate(state) {
   disposables.add(
     atom.commands.add('atom-workspace', {
       'better-git-blame:toggle': () => toggleGutterView(),
+      'better-git-blame:time-machine': () => childProcess.exec('open -a TMDemo'),
     })
   );
   if (os.platform() === 'darwin' && ConfigManager.get('searchInLayerEnabled')) {

@@ -4,6 +4,10 @@
       {
         "label": "Toggle Better Git Blame",
         "command": "better-git-blame:toggle"
+      },
+      {
+        "label": "Look up in Time Machine",
+        "command": "better-git-blame:time-machine"
       }
     ]
   },
