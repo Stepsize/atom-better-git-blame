@@ -1,4 +1,5 @@
 [![Downloads](https://img.shields.io/apm/dm/better-git-blame.svg)](https://atom.io/packages/better-git-blame) [![Version](https://img.shields.io/apm/v/better-git-blame.svg)](https://atom.io/packages/better-git-blame) [![bitHound Overall Score](https://www.bithound.io/github/Stepsize/atom-better-git-blame/badges/score.svg)](https://www.bithound.io/github/Stepsize/atom-better-git-blame) [![bitHound Dependencies](https://img.shields.io/bithound/dependencies/github/Stepsize/atom-better-git-blame.svg)](https://www.bithound.io/github/Stepsize/atom-better-git-blame/master/dependencies/npm) [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![License](https://img.shields.io/apm/l/better-git-blame.svg)](https://github.com/Stepsize/atom-better-git-blame/blob/master/LICENSE.md)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStepsize%2Fatom-better-git-blame.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FStepsize%2Fatom-better-git-blame?ref=badge_shield)
 
 # Better Git Blame Atom package <img src="https://user-images.githubusercontent.com/13640069/31381614-f76a2990-adac-11e7-99d1-c3e53c4f5802.png" alt="better git blame logo" height="48px" align="right" />
 
@@ -126,6 +127,9 @@ If you'd like to contribute we'd love to hear from you - just tweet at us [@Step
 ## License
 
 All the software in this repository is released under the MIT License. See [LICENSE.md](https://github.com/stepsize/layer-atom-plugin/blob/master/LICENSE.md) for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStepsize%2Fatom-better-git-blame.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FStepsize%2Fatom-better-git-blame?ref=badge_large)
 
 ## What is Layer?
 
