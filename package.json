@@ -32,7 +32,7 @@
     "@types/react-dom": "^15.5.4",
     "git-url-parse": ">7.0.0",
     "install": "^0.10.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "lowdb": "^1.0.0",
     "moment": "^2.18.1",
     "node-color-gradient": "github:Stepsize/node-color-gradient",
